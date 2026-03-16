@@ -26,4 +26,4 @@ function sayHello() {
     print('Некорректное имя');
   }
 }
-sayHello();
+// sayHello();
